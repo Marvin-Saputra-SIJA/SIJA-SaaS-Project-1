@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.body {
+    background-image: url(img/pattern.jpg);
+    background-repeat: repeat;
+    font-size: 18px;
+    font-weight: 800;
+    padding-top: 50px;
+    padding-left: 380px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.tb {
+    background-color: #00C2CB;
+    width: 550px;
+    height: 300px;
+    padding: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-image: url(img/logokampak.png);
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: 80px 15px;
+    padding-top: 50px;
+    opacity: 0.9;
+
+
+
+}
+
+.sija {
+    font-size: 15px;
+    padding: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.div {
+    position: absolute;
+    top: 30%;
+    left: 28%;
+
+
+}
+
+.input {
+
+    padding-left: 5px;
+    margin: 6px;
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+
+}
+
+.input1:hover {
+    background-color: rgb(35, 207, 170);
+
+}
+
+.input1 {
+    margin: 5px;
+    width: 210px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #19575a;
+    color: white;
+
+
+}
+
+.td {
+    background-image: url(img/sija.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: 10px -10px;
+}
